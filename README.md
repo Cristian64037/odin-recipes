@@ -1,1 +1,1 @@
-This project 
+This project will create basic html pages with Bootsraps grid layout to list receipes. These receipes are basic html with the use of unordered and ordered lists. 
